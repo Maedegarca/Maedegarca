@@ -1,8 +1,11 @@
--Eu sou Alicia
--Eu gosto/sou fã de: doctor who, star Wars, N e a R
--minha cor favorita é amarelo 
--tenho 17 anos 
-<!---
-Maedegarca/Maedegarca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sobre min
+
+Olá! Meu nome é Alicia e eu tenho 17 anos.
+
+Minha cor favorita é o amarelo, uma cor cheia de energia e alegria.
+
+Adoro assistir Doctor Who e sou apaixonada pelas obras de Star Wars. São meus universos preferidos!
+
+Nasci no dia 14 de junho e sou do signo de Câncer, o que me faz ser uma pessoa emocional e protetora.
+
+No meu tempo livre, gosto de assistir séries, filmes, desenhos e vídeos no YouTube.
